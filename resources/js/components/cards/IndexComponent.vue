@@ -2,9 +2,9 @@
       <table>
          <thead>
           <tr>
-            <td>Card name</td>
-            <td>Card number</td>     
-            <td>User name</td>                    
+            <td>Card Name</td>
+            <td>Card Number</td>     
+            <td>User Name</td>                    
             <td>Date of create</td>          
             <td class="widthbutton">Edit</td>                                                             
             <td class="widthbutton">Delete</td>                                              
